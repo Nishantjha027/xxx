@@ -1,117 +1,117 @@
-Cloud strategy for Sonic electronics limited.
+ True electronics limited.
 
 Introduction:
-In this report  I will review the present I.T setup of Sonic Electronics Limited and recommend an appropriate cloud strategy which can be helpful for  similar enterprises. The prime focus of my analysis will be cost ,resource allocation, Security and scalability considerations.
+The report will review the  digital infrastructure of true electronics limited and will suggest the modernisation with reference to future requirements. The main focus of review will be cost optimization, better  digital hardware allocation , safety and agility .
 
-A short background about the company Sonics electronics limited , gathering more information about the current I.T setup and providing recommendations on future deployement.
+The company will be critically evaluated for future requirements , threats , modernization , automation and  fast upgradation to amalgamate with modern tools and enhance their presence in the targeted markets.
 
+True  Electronics Limited.
+True electronics limited is a production unit established in India ,specialized in consumer electronics hardware. The company was established for about a  decade with a steady growth in consumer electronics.A high investment planned was executed recently to meet the digital demand and to further prepared for expansions and upgradation to link  the forecasted growth
 
-Sonic Electronics Limited.
-Sonic electronics limited is a manufacturing company established in Gujarat,India specialized in consumer electronics products. The company has been well established for decades with a steady growth in consumer electronics.The current I.T infrastructure is traditional on premises infrastructure with servers,networking equipment & storage house in their own data center. The lightining fast growth in consumer electronics with advancement in cellular technologies soar the demand which lead to modernize the digital infrastructure to tap the demand and registered growth.
+True  electronics established in 2012 produces speakers, headphones,buds, trimmers, displays,sensors,chargers, wireless chargers and various types of cable wires in production  houses.
 
-Sonic electronics established in 2012 deals in speaker, headphones,buds, trimmers, displays,sensors,chargers, wireless charger and various types of cable wires in storage houses.
-
-The company employs nearly 200 people in a manufacturing company in Gujarat and aims to commence their exports from 2025 to emerging markets to increase their presence globally.
-
+They have a team of  nearly 100 people in a manufacturing company in Gujarat and aim to commence their exports from 2025 to emerging markets to increase their presence globally.
 
 
-The company marks their presence digitally with the help of e-commerce platforms, company’s website, registered distributors and a well established supply chain management system called Enterprise Resource Planning.
 
- Current I.T Setup and Recommendations.
- 
-Aim to provide rationale and justification based on cost,security,scalability and resource allocation. The report will focus on Customer relationship management, supply chain management, Ecommerce, Company website and Email marketing.
+The company registered  their presence digitally with the help of re-selling platforms, website and digital marketing agencies.
 
-Software as a service (SAAS) is used as per requirement of the business and infrastructure required for further growth. 
+ Current Digital Infrastructure .
 
-On- premises servers:
-The company operates a fleet of physical servers to host their critical applications such as Enterprise resource planning(ERP), Supply chain management(SCM) and customer relationship management (CRM).
-Storage Infrastructure:
+True electronics is still less modernized with respect to available hardware and services . The unit  has developed I.T assets within premises. The cost of maintaining and replacing the fatigue is high due to specialized teams and skills are required to observe and maintain which shoots the cost , while  cost optimization can be reduced with cloud infrastructure and teams can focus on their responsibilities. The increasing price in electrification and reducing pollution can become someone else's problem, just by adopting any  trusted cloud partners solution.
+
+Software as a service (SAAS)  model is selected  as per requirement of the business and infrastructure  expansion.. 
+
+Servers inside the units
+
+The company uses  physical servers to host their applications such as Enterprise resource planning(ERP), Supply chain management(SCM), Internal communications.
+
+Digital Storage Infrastructure:
 The company uses Network -Attached storage and Direct-attached storage for data storage needs
 
 Backup and data Recovery:
-Timely data backup processes are completed in Tapes and stored in specific locations.
+Human need is required to commence the program for backup and data recovery. High chances of proliferation.
 
 Email servers:
-Sonic electronic limited hosts the email servers on-premises.
+True electronic limited deployed physical  servers inside the units .
 
 
 
 Application and Website Hosting:
-The company hosts services in their  dedicated in-house servers.
+The company hosts services in their  physical  in-house servers.
 
+ COMPARING PHYSICAL SERVERS WITH CLOUD SOLUTIONS.
 
-ON-PREMISE SERVERS VS.CLOUD INFRASTRUCTURE
+The company should adopt the services of cloud companies like salesforce and AWS, which will help in expansion as per requirement with effective measure.It will also help in utilization of new tools like automation, current technology, safety and protection , highly encrypted and trusted solutions.
+Physical servers are vulnerable to many things such as higher low voltage can reduce the life , fatigue failure , Maintenance, Development team, Upgradation team , monitoring team. The safety and security of ransomware remains a challenge as the ransomware can affect the whole servers or might limit the recovery. 
 
-The company should move their in-house servers to cloud giants like salesforce.com, Azure and Amazon web services for scalability,cost effectiveness (pay as you go),scheduled updates, maintenance and security threats of data mitigation.This step will also help for full control over hardware which is suitable for legacy applications.
-
-Recommendations:
-
+SUGGESTIONS:
 Migrate from on premises servers to cloud based infrastructure to mitigate any threats and utilize the hardware with greater efficiency with firewall security patch by services providers. The gathering and generating a pattern based on A.I can pivot any products or services in a company with high degree of accuracy.
+Migrate with proper phase planning for the adoption of cloud to secure data and modernize the infrastructure . There are many tools and services which can enhance their perspective and presence across the world  digitally
 
-ON-PREMISE V/S CLOUD BASED STORAGE
+COMPARE  PHYSICAL SERVER STORAGE WITH  CLOUD STORAGE SOLUTIONS.
+
+
  
-ON -Premises storage:
+PHYSICAL DATA STORAGE:
+The data can be only accessed by the company as it has stored data inside its infrastructure. The data recovery and backup will consume more physical area that can be challenged with upgrading. To modernize the physical data servers consume high investment and are always prone to ransom attack or proliferation of data.The latency remains low and limited access throughout the globe according to the policies of company and government with regards to data.Highly prone to natural calamity.
 
-This increases  control over data directly which would reduce the threat as low as     possible for security theft or breach, However the latency of data remains low.The on -premises storage increases the cost of maintenance , scalability and is prone to any physical disaster.
+Cloud Infrastructure.
+The accessibility of data will be across the earth. Pay as you go model helps a company to utilize the cloud infrastructure as per the demand for proper allocation of resources. The safety and protection are highly monitored. The tools and advancements can be accessed easily .  A team of  engineers are available for any query or issues. The data are encrypted and compiled by the norms of the organization and governments.
 
+Suggestion
+The unit should be moved from physical servers and data centers to cloud based  solutions quickly as many of the tasks which are traditional like safety, upgradation , Maintenance, pollution generation , regulation compilation , backup , automation and advancements and precise insights of markets can be eliminated.
 
-Cloud Storage solutions
-
-The scalability of infrastructure is an important factor to consider with reference to growth. Accessibility of infrastructure and data would be available throughout the globe, however the data transfer cost may be higher and it also generates dependency.
-
-Recommendations
-The accessibility and scalability of data will help to grow more and reduce the dependency on many concerns like data theft, security breach, Infrastructure expansion and low latency. It also helps in data backup and recovery.The company can reduce high infrastructure and maintenance cost by migrating to cloud.
-
-On backup Data recovery v/s cloud based data recovery.
-The company currently has dedicated data centers for backup and recovery with encryption. It has to pay a high cost to store data which can be utilized for generating trends and patterns with reference  to recovery & backup.
-If the company adopts the cloud model maintenance,scalability, backup and security will be processed automated. The ongoing high subscription cost can be a barrier for adoption.
-
-Recommendations.
-
-Cloud based backup and DR provided automated and cost effective solutions as well as reducing the risk of data loss & enabling faster recovery .The cloud scalability ensures that resources can grow as the data volume increases,whereas offsite storage enhances disaster resilience.e.g (Microsoft 365, google workplace, zoho etc.)
+Compare physical backup recovery with  cloud recovery solutions.
+The company currently has dedicated data centers for backup and recovery with encryption. It has to pay a high cost to store data which can be utilized for generating trends and patterns with reference  to recovery & backup. The ongoing high subscription cost can be a barrier for adoption.
 
 
+
+Physical  data backup & Recovery.
+   True electronics presently store data for backup in their non modernized servers which were used for many years and were removed from the system for the advanced hardwares. The backup data are highly vulnerable as the analysis conducted doubts on the hardware used to store are not as per standards. The maintenance cost is high.It is prone to attacks as it is a separate entity just for storing and balancing the loads if required for true electronics.
+
+Cloud backup and recovery solutions
+ The services offered by partnered cloud solutions are automated data and recovery algorithms with highly encryption . it can be accessed globally with permission . The latest infrastructure is deployed with highly skilled resources to tackle any downtime or potential threats . Trust and honest deployement are expected with data . It is suggested to adopt AWS and eliminate all the physical servers  recovery methods.
+Not prone to any natural disaster as load data can be accessed with multiple data centers
+
+Suggestions:
+True electronics must migrate to trusted cloud solutions
+Adaptable and cost effective
+Less prone to natural or cyber attacks..
 
 E-mail Servers.
-The company currently stores data in premises for reducing the vulnerability of exposing it to the customer or any ransomware attack.
+At present,organizations maintain information on-site to lessen risk of exposure to ransomware attack or any breach.
 
 Recommendations
-The company should migrate their servers to Microsoft 365 for better internal or external communications. It will help the I.T team to deal with other dedicated tasks. Cloud 365  offers privileges in the form of security, data leak and scalability with less maintenance cost. 
+Switch to Microsoft 365 to ensure  secure connectivity and cloud advancement.
+
 
             Application & Website hostings.
 
-The  company hosts their application & website hosting in their dedicated in-house     servers to store consumer data that might be affected with security theft or attack.
-The online stores becomes increasingly burdened as 
+True electronics store data on servers which are in -premises to limit the data theft or lose control. The data of solutions are extremely precious to grow and generate insights about information.
 
 Recommendations:
-The company should Migrate their hostings on applications like shopify and dukaan for better consumer engagement and response.
-The platforms provide services with growth levied on competitors with better insights and automation tools. The company needs to hire a dedicated team to build automation tools which would levy high cost comparison to returns. It can utilize the existing resources in the market.
+Sites like dukaan and shopify could be used for advertising and broaden the attraction of equipment with community.Reduce expenses on I.t employees as assigned tasks would be  completed by trusted companies
 
 Conclusion:
-Observing the competition to grow and acquire the market, digital infrastructure plays a 
-Vital role for companies to utilize the data and patterns for strategic decision and
-Encouraging growth.Cloud infrastructure helps a company to manage their data 
-Compared  to single owned infrastructure. We suggest sonic electronics limited to adopt 
-the public cloud infrastructure rapidly. The benefits of smaller organization has agility 
-and Flexibility for adoption of cloud services easily.    
+The infrastructure plays an essential role for an organization to utilize the consumer electronic  decision for future growth. Cloud adoption plays a significant part compared to on premises infrastructure. The flexibility for forecasted growth can be tapped and agility can be utilized for forecasted growths.
+
+
+
+
 
 Advantages of adopting to cloud
 
 scalability.
-Cost saving.
+Profit.
 Flexibility & agility.
-Global Accessibility.
-Automatic updates & maintenance.
-Security compliances.
-Automation and Data Recovery.
+ Access from any part of the globe.
+Automatic upgradation.
+DEMerits of adopting cloud.
 
-Dis-advantages of adopting cloud.
-
-Dependency on Internet connectivity.
-Limited control.
-Potential downtime.
-Data transfer cost.
-Vendor lock-in.
- Compliance challenge.
-
-    		
+Usage of Internet
+Fewer  control
+Idle time.
+High data transfer price.
+Customer lock-in period.
+ Regulation norms challenges.
